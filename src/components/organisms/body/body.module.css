@@ -1,0 +1,14 @@
+.body {
+  width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: var(--spacing-400);
+	padding: 0;
+}
+
+@media (max-width: 480px) {
+  .body {
+    padding: var(--spacing-500) var(--spacing-400);
+  }
+}

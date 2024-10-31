@@ -1,0 +1,13 @@
+.recipe {
+  height: 100%;
+  min-height: 100vh;
+	background-color: var(--color-stone-100);
+  padding: var(--spacing-1600) 0;
+  font-size: var(--font-body-size);
+}
+
+@media (max-width: 480px) {
+  .recipe {
+    padding: 0;
+  }
+}
