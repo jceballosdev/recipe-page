@@ -29,7 +29,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [https://github.com/jceballosdev/recipe-page.git](https://github.com/jceballosdev/recipe-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://recipe-page-5fdi.vercel.app/](https://recipe-page-5fdi.vercel.app/)
 
 ## My process
 
